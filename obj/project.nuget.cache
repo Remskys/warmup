@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KC+h/h6EZ2FtXl7rTbue/amlbDts+UKprnJqadf3wnvnMb+rqr3s5hXgxjEQio9YnVDXlu4Cg+DwZl8Ch+zSPA==",
+  "success": true,
+  "projectFilePath": "/Users/remsky/Documents/GIT/warmup/dummy-app.csproj",
+  "expectedPackageFiles": [
+    "/Users/remsky/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/remsky/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
